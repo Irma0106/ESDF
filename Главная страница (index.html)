@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debris Flow Study in Georgia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Engineering Study of Debris Flow in Georgia</h1>
+            <p>Exploring solutions for natural disaster management in mountainous regions</p>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About the Project</a></li>
+                    <li><a href="team.html">Research Team</a></li>
+                    <li><a href="methods.html">Methodology</a></li>
+                    <li><a href="results.html">Results & Publications</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="intro">
+        <div class="container">
+            <h2>Welcome to the Debris Flow Research Project</h2>
+            <p>This project aims to study debris flow areas in Georgia’s high-mountain regions to provide critical insights into predicting and preventing natural disasters. Using advanced satellite imagery, drone technology, and GIS models, the project focuses on protecting lives and infrastructure from future debris flow events.</p>
+        </div>
+    </section>
+
+    <section class="objectives">
+        <div class="container">
+            <h2>Project Objectives</h2>
+            <ul>
+                <li>Analyze the formation of debris flows in high-risk areas.</li>
+                <li>Assess erosion quantitatively using the RUSLE model.</li>
+                <li>Implement early warning systems for disaster prevention.</li>
+                <li>Incorporate cutting-edge satellite and drone technology.</li>
+                <li>Collaborate with international experts to develop protective measures.</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Debris Flow Research Project | <a href="contact.html">Contact Us</a></p>
+        </div>
+    </footer>
+</body>
+</html>
